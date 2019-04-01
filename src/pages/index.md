@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Enock CG
-image: /img/tt-flavor-sheet.jpg
+image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: enjoying a cup
 mainpitch:
