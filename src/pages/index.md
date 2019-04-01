@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Enock CG
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: ahdajs
 subheading: enjoying a cup
 mainpitch:
   title: Why Kaldi
@@ -25,7 +25,7 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/geicko.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
