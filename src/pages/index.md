@@ -3,7 +3,7 @@ templateKey: index-page
 title: Welcome to my site
 image: /img/home-jumbotron.jpg
 heading: Casino Industry Experience
-subheading: 'Experienced Game Art Manager seeking '
+subheading: 'Experienced Game Art Manager '
 mainpitch:
   title: Enock Etienne
   description: >
