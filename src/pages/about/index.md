@@ -1,19 +1,95 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Core values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Experienced Art Manager seeking a leadership role
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### SENIOR ART MANAGER
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### American Gaming Systems (AGS) November 2015 – March 2019
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Oversaw all art assets for quality and continuity with the vision of the Game Development Director and the Game Designers. I managed a team of artists and drove the game design development of Slot games.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Partnered with Art Directors, Sound Director, and Studio Director to create specific visions and enhancements
+
+### Collaborated with Producers, Game Engineer Managers, and Project Managers to facilitate organization and product planning
+
+### Oversaw the Art team production schedules internally and externally (outsource teams)
+
+### Participated in long-term product planning and roadmap as well as establishing new platform process improvements
+
+### Actively research, analyze, understand, and recommend leading methodologies
+
+### Engaged with Game Studio / Product Development / Customers in the development of the creative direction and specifications for assigned art and design projects.
+
+### Trained potential Leads and help them hone their skills
+
+### Determined staffing requirements, and interview, hire and train new employees
+
+### Accomplished financial objectives by preparing the annual software and hardware budget for both Art and Sound department for two Studios (Atlanta and Austin).
+
+### 
+
+### 
+
+### GAME DESIGN MANAGER
+
+### 
+
+### AMAYA May 2011 – November 2015
+
+### 
+
+### 
+
+### GAME DESIGN LEAD
+
+### 
+
+### Cadillac Jack May 2010 – June 2011
+
+### 
+
+### 
+
+### SR 3D ARTIST
+
+### 
+
+### Cadillac Jack May 2006 – May 2010
+
+### 
+
+### 
+
+### EDUCATION
+
+### Bachelor of Fine Art; Media Art and Animation 2006
+
+### 
+
+### 
+
+### SOFTWARE
+
+### Expert knowledge in Autodesk Maya and After Effects. Photoshop, Illustrator
+
+### Traditional drawing and 2D animation skills
+
+### 
+
+### Advanced Knowledge of VersionOne, Jira, Confluence, SharePoint, Alienbrain, And Turtoise SVN.
+
+### 
+
+### 
+
+### CERTIFICATIONS
+
+### Scrum Certified
+
+
+
+### Cell: 770-545-4299
+
+### email: enock2003@yahoo.com
