@@ -1,21 +1,25 @@
 ---
 templateKey: index-page
-title: Enock CG
+title: Welcome to my site
 image: /img/home-jumbotron.jpg
-heading: ahdajs
-subheading: enjoying a cup
+heading: Casino Industry Experience
+subheading: 'Experienced Game Art Manager seeking '
 mainpitch:
-  title: Why Kaldi
+  title: Enock Etienne
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    12+ years' experience in computer graphic and animation production.
+
+
+    8+ years of art staff management experience. I recently managed a team size
+    of at least 15-20 people and delivered concurrently on multiple projects.
+
+
+    Partnered with a diverse group of directors, producers, and product managers
+    to create a cohesive product
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Shipped over 100+ titles.  Designed, leaded and/or managed the top 5 Hit games
+  in the AGS history. Olympus Strikes, River Dragons, Fu Nan Fu Nu, Fu Pig, and
+  Monkey in the Bank.
 intro:
   blurbs:
     - image: /img/tt_recent-00024-.jpg
